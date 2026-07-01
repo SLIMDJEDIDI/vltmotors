@@ -32,7 +32,7 @@ export const financingPlans: FinancingPlan[] = [
   {
     slug: "zero-plus",
     name: "VLT Zero Plus",
-    partner: "Voltrop Finance",
+    partner: "VLT Finance",
     apr: 0,
     minTerm: 6,
     maxTerm: 18,
@@ -79,6 +79,6 @@ export const financingPartners = [
   "Banque de l'Habitat",
   "Amen Bank",
   "Attijari Bank",
-  "Voltrop Finance",
+  "VLT Finance",
   "BIAT",
 ];
