@@ -30,7 +30,6 @@ export const metadata: Metadata = {
   description: site.description,
   keywords: [
     "VLT Motors",
-    "Voltrop",
     "electric motorcycle Tunisia",
     "electric scooter Tunisia",
     "motorcycle dealership Tunisia",

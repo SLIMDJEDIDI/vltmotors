@@ -2,7 +2,6 @@ import { Hero } from "@/components/sections/Hero";
 import { CategoriesSection } from "@/components/sections/CategoriesSection";
 import { FeaturedModels } from "@/components/sections/FeaturedModels";
 import { WhyChoose } from "@/components/sections/WhyChoose";
-import { FinancingTeaser } from "@/components/sections/FinancingTeaser";
 import { AfterSales } from "@/components/sections/AfterSales";
 import { DealersSection } from "@/components/sections/DealersSection";
 import { Testimonials } from "@/components/sections/Testimonials";
@@ -16,7 +15,6 @@ export default function HomePage() {
       <CategoriesSection />
       <FeaturedModels />
       <WhyChoose />
-      <FinancingTeaser />
       <AfterSales />
       <DealersSection />
       <Testimonials />

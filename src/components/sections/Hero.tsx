@@ -67,7 +67,7 @@ export function Hero() {
         >
           <motion.div variants={item}>
             <span className="eyebrow">
-              <Zap className="h-3.5 w-3.5" /> Official Voltrop Dealership · Tunisia
+              <Zap className="h-3.5 w-3.5" /> Premium Mobility Dealership · Tunisia
             </span>
           </motion.div>
 

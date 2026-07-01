@@ -5,7 +5,7 @@ export const site = {
   legalName: "VLT Motors SARL",
   tagline: "Ride the Future. Drive with Confidence.",
   description:
-    "VLT Motors is the official dealership for Voltrop Industries and selected mobility brands — electric and gasoline motorcycles, scooters, cargo tricycles and commercial vehicles in Tunisia.",
+    "VLT Motors — premium electric and gasoline motorcycles, scooters, cargo tricycles and commercial vehicles in Tunisia.",
   url: "https://www.vltmotors.tn",
   locale: "en",
   currency: "TND",
@@ -43,7 +43,7 @@ export const mainNav: NavLink[] = [
   { label: "Home", href: "/" },
   { label: "Vehicles", href: "/vehicles" },
   { label: "Services", href: "/services" },
-  { label: "Financing", href: "/financing" },
+
   { label: "Promotions", href: "/promotions" },
   { label: "News", href: "/news" },
   { label: "About", href: "/about" },

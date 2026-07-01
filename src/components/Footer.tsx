@@ -40,7 +40,7 @@ const columns = [
       { label: "Maintenance & Repairs", href: "/services" },
       { label: "Spare Parts", href: "/services" },
       { label: "Warranty Support", href: "/services" },
-      { label: "Financing", href: "/financing" },
+      { label: "Warranty Support", href: "/services" },
     ],
   },
   {
@@ -198,7 +198,7 @@ export function Footer() {
             © {new Date().getFullYear()} {site.legalName}. All rights reserved.
           </p>
           <p>
-            Official dealership for Voltrop Industries · Made in {site.country}
+            Premium Mobility Dealership · Made in {site.country}
           </p>
         </div>
       </div>

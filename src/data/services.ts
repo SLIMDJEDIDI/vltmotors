@@ -10,7 +10,7 @@ export const whyChoose: Feature[] = [
     icon: "BadgeCheck",
     title: "Official Dealership",
     description:
-      "Authorized dealer for Voltrop Industries and selected mobility brands, with full manufacturer backing.",
+      "Authorized dealer for selected premium mobility brands, with full manufacturer backing.",
   },
   {
     icon: "Cog",

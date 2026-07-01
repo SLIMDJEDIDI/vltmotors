@@ -11,7 +11,7 @@ import { site } from "@/data/site";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "VLT Motors is the official dealership for Voltrop Industries — on a mission to make premium electric and gasoline mobility accessible across Tunisia and North Africa.",
+    "VLT Motors — on a mission to make premium electric and gasoline mobility accessible across Tunisia and North Africa.",
 };
 
 const values = [
@@ -43,7 +43,7 @@ const values = [
 
 const timeline = [
   { year: "2014", text: "VLT Motors opens its first showroom in Tunis." },
-  { year: "2018", text: "Becomes official dealership for Voltrop Industries." },
+  { year: "2018", text: "Expands its electric vehicle lineup and service network." },
   { year: "2021", text: "Launches its certified electric service network." },
   { year: "2024", text: "Expands to nine locations nationwide." },
   { year: "2026", text: "Begins regional expansion across North Africa." },
@@ -91,9 +91,9 @@ export default function AboutPage() {
                 to the after-sales workshop.
               </p>
               <p>
-                As the official dealership for Voltrop Industries, we now offer
-                the most complete range of electric and gasoline mobility in the
-                country, supported by certified technicians and genuine parts.
+                We now offer the most complete range of electric and gasoline
+                mobility in the country, supported by certified technicians and
+                genuine parts.
               </p>
               <p>
                 Today we&apos;re proud to serve more than 14,000 riders across nine

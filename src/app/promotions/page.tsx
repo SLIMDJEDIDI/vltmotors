@@ -44,15 +44,15 @@ export default function PromotionsPage() {
                   0% financing on all electric scooters
                 </h2>
                 <p className="mt-4 text-white/65">
-                  Ride away on any Voltrop e-scooter with 0% interest over 18
+                   Ride away on any electric scooter with 0% interest over 18
                   months — plus a complimentary premium helmet. While stocks last.
                 </p>
                 <div className="mt-7 flex flex-wrap gap-4">
                   <MagneticButton href="/vehicles?category=electric-scooters">
                     Shop e-scooters
                   </MagneticButton>
-                  <MagneticButton href="/financing" variant="ghost">
-                    See financing
+                  <MagneticButton href="/contact" variant="ghost">
+                    Contact us
                   </MagneticButton>
                 </div>
               </div>
